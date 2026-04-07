@@ -1,0 +1,29 @@
+
+.bg-container{
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.d-I-hTU_DM7PpVk-bOKVuAHaE5?pid=Api&P=0&h=180");  
+    height: 90vh;
+    width: 215vh;
+    background-size: cover;
+ 
+}
+.card{
+    background-size: cover;
+    text-align: center;
+   
+}
+.header{
+    text-align: center;
+}
+.mainheading{
+    text-align: center;
+    font-style: normal;
+    color: blueviolet;
+}
+.button{
+    height: 36px;
+    width: 138p; 
+    background-color: blue;
+    color: white;
+    border-radius:25px;
+    border-width: 0px;
+}
